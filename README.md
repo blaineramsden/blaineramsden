@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 Hi, I’m Blaine Ramsden
 
 👀 I’m interested in Webapp and App development
